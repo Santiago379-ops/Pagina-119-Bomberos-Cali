@@ -3,7 +3,7 @@
 Parcial de Desarrollo Web (Ingeniería Multimedia, Universidad de San Buenaventura) · 2026-2.
 Canal digital para la línea 119 del Benemérito Cuerpo de Bomberos Voluntarios de Cali: el ciudadano reporta, el radio operador valida y despacha, y el ciudadano ve el estado de su reporte.
 
-- **Sitio desplegado:** _pegar aquí el enlace de Vercel/Netlify_
+- **Sitio desplegado:** https://pagina-119-bomberos-cali.vercel.app/
 - **Repositorio:** _pegar aquí el enlace de GitHub_
 
 ## Integrantes
