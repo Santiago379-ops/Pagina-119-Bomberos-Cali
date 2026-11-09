@@ -10,8 +10,8 @@ Canal digital para la línea 119 del Benemérito Cuerpo de Bomberos Voluntarios 
 
 | Nombre | Código |
 | --- | --- |
-| _Nombre integrante 1_ | _código_ |
-| _Nombre integrante 2_ | _código_ |
+| Santiago Giraldo Sánchez | 129737 |
+| Felipe Gallo Mazuera | 129068 |
 
 ## Cómo correr el proyecto
 
