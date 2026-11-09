@@ -122,7 +122,6 @@ App móvil, SMS, videollamada, base de datos y autenticación del operador. Hoy 
 ## Despliegue
 
 - **Vercel:** importar el repositorio desde GitHub (el `vercel.json` ya incluye la regla para que las rutas `/reportar` y `/operador` funcionen al recargar).
-- **Netlify:** el archivo `public/_redirects` cumple esa misma función. Comando de build `npm run build`, carpeta `dist`.
 
 ## Datos de prueba
 
